@@ -1,0 +1,8 @@
+<h2>Version notes</h2>
+
+This is a raw version of a TicTacToe game.
+
+- Game checking algorithm should probably be changed to take into account the cell the user touched and not loop through all cells.
+- Enum system for players should also be changed as it's far from elegant.
+
+Hope you enjoy it.
