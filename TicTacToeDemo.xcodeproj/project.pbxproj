@@ -133,6 +133,12 @@
 		B6BA83C817A6831100807E19 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA83C717A6831100807E19 /* AppDelegate.m */; };
 		B6BA83CB17A6831100807E19 /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA83CA17A6831100807E19 /* HelloWorldLayer.m */; };
 		B6BA83CE17A6831100807E19 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA83CD17A6831100807E19 /* IntroLayer.m */; };
+		B6BA83E017A686A400807E19 /* grid-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DA17A686A400807E19 /* grid-hd.png */; };
+		B6BA83E117A686A400807E19 /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DB17A686A400807E19 /* grid.png */; };
+		B6BA83E217A686A400807E19 /* mark_0-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DC17A686A400807E19 /* mark_0-hd.png */; };
+		B6BA83E317A686A400807E19 /* mark_0.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DD17A686A400807E19 /* mark_0.png */; };
+		B6BA83E417A686A400807E19 /* mark_1-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DE17A686A400807E19 /* mark_1-hd.png */; };
+		B6BA83E517A686A400807E19 /* mark_1.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BA83DF17A686A400807E19 /* mark_1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -398,6 +404,12 @@
 		B6BA83CA17A6831100807E19 /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		B6BA83CC17A6831100807E19 /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		B6BA83CD17A6831100807E19 /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		B6BA83DA17A686A400807E19 /* grid-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grid-hd.png"; sourceTree = "<group>"; };
+		B6BA83DB17A686A400807E19 /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
+		B6BA83DC17A686A400807E19 /* mark_0-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mark_0-hd.png"; sourceTree = "<group>"; };
+		B6BA83DD17A686A400807E19 /* mark_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark_0.png; sourceTree = "<group>"; };
+		B6BA83DE17A686A400807E19 /* mark_1-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mark_1-hd.png"; sourceTree = "<group>"; };
+		B6BA83DF17A686A400807E19 /* mark_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark_1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -472,6 +484,12 @@
 		B6BA824F17A6830F00807E19 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				B6BA83DA17A686A400807E19 /* grid-hd.png */,
+				B6BA83DB17A686A400807E19 /* grid.png */,
+				B6BA83DC17A686A400807E19 /* mark_0-hd.png */,
+				B6BA83DD17A686A400807E19 /* mark_0.png */,
+				B6BA83DE17A686A400807E19 /* mark_1-hd.png */,
+				B6BA83DF17A686A400807E19 /* mark_1.png */,
 				B6BA825017A6830F00807E19 /* Default.png */,
 				B6BA825217A6830F00807E19 /* Default-Landscape~ipad.png */,
 				B6BA825417A6830F00807E19 /* fps_images.png */,
@@ -895,6 +913,12 @@
 				B6BA826517A6830F00807E19 /* Icon@2x.png in Resources */,
 				B6BA826817A6830F00807E19 /* iTunesArtwork in Resources */,
 				B6BA83A617A6831100807E19 /* ChangeLog in Resources */,
+				B6BA83E017A686A400807E19 /* grid-hd.png in Resources */,
+				B6BA83E117A686A400807E19 /* grid.png in Resources */,
+				B6BA83E217A686A400807E19 /* mark_0-hd.png in Resources */,
+				B6BA83E317A686A400807E19 /* mark_0.png in Resources */,
+				B6BA83E417A686A400807E19 /* mark_1-hd.png in Resources */,
+				B6BA83E517A686A400807E19 /* mark_1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
